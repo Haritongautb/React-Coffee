@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Coffee/static/css/main.f95d30bf.css",
-    "main.js": "/React-Coffee/static/js/main.a80edecc.js",
+    "main.js": "/React-Coffee/static/js/main.1d961229.js",
     "static/media/home-paper-back.png": "/React-Coffee/static/media/home-paper-back.a2e6a8ffc0860c5c04cf.png",
     "static/media/home-hero-back.png": "/React-Coffee/static/media/home-hero-back.c2530b8ad04f33cbdd5f.png",
     "static/media/for-your-pleasure-hero-back.png": "/React-Coffee/static/media/for-your-pleasure-hero-back.e21ef2bf9297611b5d7e.png",
@@ -12,10 +12,10 @@
     "static/media/1.png": "/React-Coffee/static/media/1.1be4096680a98e0fa764.png",
     "index.html": "/React-Coffee/index.html",
     "main.f95d30bf.css.map": "/React-Coffee/static/css/main.f95d30bf.css.map",
-    "main.a80edecc.js.map": "/React-Coffee/static/js/main.a80edecc.js.map"
+    "main.1d961229.js.map": "/React-Coffee/static/js/main.1d961229.js.map"
   },
   "entrypoints": [
     "static/css/main.f95d30bf.css",
-    "static/js/main.a80edecc.js"
+    "static/js/main.1d961229.js"
   ]
 }
